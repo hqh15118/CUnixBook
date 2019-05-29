@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hongqianhui/CLionProjects/unix_book/main.c
+stdio.h
+-
+errno.h
+-
+pthread.h
+-
+stdlib.h
+-
+

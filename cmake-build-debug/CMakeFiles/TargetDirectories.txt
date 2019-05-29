@@ -1,0 +1,3 @@
+/Users/hongqianhui/CLionProjects/unix_book/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hongqianhui/CLionProjects/unix_book/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hongqianhui/CLionProjects/unix_book/cmake-build-debug/CMakeFiles/unix_book.dir
